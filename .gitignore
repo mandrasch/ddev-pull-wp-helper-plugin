@@ -1,0 +1,15 @@
+# Ignore all ...
+*
+
+# ... but track specific files / folders: 
+
+!.gitignore
+!/README.md
+!/LICENSE
+
+# Plugin
+!/wp-content
+/wp-content/*
+!/wp-content/plugins
+/wp-content/plugins/*
+!/wp-content/plugins/ddev-pull-wp-helper
