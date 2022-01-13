@@ -1,9 +1,8 @@
 # Ignore all ...
-*
+/*
 
 # ... but track specific files / folders: 
-
-!.gitignore
+!/.gitignore
 !/README.md
 !/LICENSE
 
