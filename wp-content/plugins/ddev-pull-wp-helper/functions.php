@@ -4,7 +4,7 @@
  * Plugin Name:       DDEV Pull WP Helper
  * Plugin URI:        https://github.com/mandrasch/ddev-pull-wp-helper-plugin
  * Description:       
- * Version:           0.9
+ * Version:           0.0.1
  * Author:            Matthias Andrasch
  * Author URI:        https://matthias-andrasch.eu
  * License:           CC0
