@@ -1,5 +1,6 @@
-Status: _Work in progress, not ready for production yet. Please delete the plugin from your site after you got all the values._
+# DDEV pull WP helper plugin
 
+Status: _Work in progress, not ready for production yet. Please delete the plugin from your site after you got all the values._
 
 Tiny plugin to help with getting the needed enviroment values (database type, php version, path) for https://ddev-pull-wp.mandrasch.eu/.
 
