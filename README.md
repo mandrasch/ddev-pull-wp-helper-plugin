@@ -1,8 +1,10 @@
 # DDEV pull WP helper plugin
 
-Status: _Work in progress, not ready for production yet. Please delete the plugin from your site after you got all the values._
+Tiny plugin to help with getting the needed enviroment values for [ddev-pull-wp.mandrasch.eu][https://ddev-pull-wp.mandrasch.eu/].
 
-Tiny plugin to help with getting the needed enviroment values (database type, php version, path) for https://ddev-pull-wp.mandrasch.eu/.
+Status: Work in progress, not ready for production yet. 
+
+⚠️ Please delete the plugin from your production site after you got all the values.
 
 **Download**: https://github.com/mandrasch/ddev-pull-wp-helper-plugin/releases/download/v0.0.1/ddev-pull-wp-helper.zip
 
