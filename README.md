@@ -1,6 +1,6 @@
 # DDEV pull WP helper plugin
 
-Tiny plugin to help with getting the needed enviroment values for [ddev-pull-wp.mandrasch.eu][https://ddev-pull-wp.mandrasch.eu/].
+Tiny plugin to help with getting the needed enviroment values for [ddev-pull-wp.mandrasch.eu](https://ddev-pull-wp.mandrasch.eu/).
 
 Status: Work in progress, not ready for production yet. 
 
