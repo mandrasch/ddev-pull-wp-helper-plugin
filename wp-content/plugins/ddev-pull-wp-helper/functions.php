@@ -64,7 +64,7 @@ function render_settings_page()
         <li><b>Active theme folder:</b> <?php echo $activeThemeFolderShort; ?></li>
     </ul>
     <p><b>Great! Now that we have the data, we can start to setup DDEV: </p>
-    <p><a href="">&raquo; Tutorial for ddev pull</a></b></p>
+    <p><a href="https://ddev-pull-wp.mandrasch.eu/">&raquo; Tutorial for ddev pull</a></b></p>
     <pre>
     <?php
     //print_r($debugData);
